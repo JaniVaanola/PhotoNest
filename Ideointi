@@ -1,0 +1,8 @@
+Google Photos tyylinen kuvaohjelma. Google Photos muuttuu maksulliseksi yli 15gb tilaa kompressoiduilla kuvilla.
+Toimii verkkosivuna.
+Toteutetaan Wordpressissä.
+Täydellä laadulla talletettavia kuvia omalle käyttäjälle.
+Ammattikuvaajille ja muille korkea laaduista kuvista välittävät käyttäjät.
+Ylläpidetään mainoksilla ja kuukausimaksulla, joka sisältää ylimääräisiä ominaisuuksia ja poistaa mainokset.
+Suurin osa laadusta välittävä pitää kuvat omalla levyllään. Tämän avulla voisi viedä kuvat mukanaan verkossa huolehtimatta laadun heikkenemisestä, eikä tarvitse kantaa mukana kovalevyä.
+Riskinä on servereiden täyttyminen. Voidaan torjuta laajentamalla servereiden kapasiteettia.
