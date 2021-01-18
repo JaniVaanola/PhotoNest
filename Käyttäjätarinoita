@@ -1,0 +1,28 @@
+Käyttäjätarina - Rekisteröityminen
+Käyttäjä tulee PhotoNestin etusivulle
+Käyttäjä päättää rekisteröityä painamalla rekisteröidy nappia
+Käyttäjä täyttää tarpeellisen tiedon ja luo käyttäjän
+Käyttäjä on nyt kirjautuneena sisään ja näkee oman profiilinsa
+
+
+Käyttäjätarina - Kuvan lisääminen
+Käyttäjä tulee PhotoNestin etusivulle
+Käyttäjä kirjautuu sisään PhotoNestiin
+Käyttäjä painaa "Lisää kuva" nappia
+Käyttäjä valitsee tietokoneeltaan haluamansa kuvan ja tuplaclickaa sitä
+Käyttäjä painaa "Lähetä kuva" nappia saadakseen tämän kuvan PhotoNestin profiiliinsa
+
+
+Käyttäjätarina - Kuvan poistaminen
+Käyttäjä tulee PhotoNestin etusivulle
+Käyttäjä kirjautuu Photonestiin sisälle
+Käyttäjä valitsee kuvan painamalla sitä
+Käyttäjä painaa "Poista kuva" nappia
+Käyttäjä painaa "Haluan poistaa kuvan" nappia
+Käyttäjän valitsema kuva on nyt poistettu
+
+
+Käyttäjätarina - Dark Mode
+Käyttäjä tulee PhotoNestin etusivulle
+Käyttäjä painaa "Dark Mode" nappia
+Käyttäjän näyttö PhotoNest sivulla on nyt Dark Mode tilassa
